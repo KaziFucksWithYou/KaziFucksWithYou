@@ -1,5 +1,5 @@
 ## What do I do?
-- I am a programmer and im like 22 years ol
+- I am a programmer and im like 22 years old
 - C# on top
 - C++ on top
 - C on top
